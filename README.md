@@ -34,6 +34,6 @@ Algumas informações sobre mim:
   <a href = "mailto:marcosnokbuk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcos_nokbuk@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> </a>
  
-![Snake animation](https://github.com/MarcosP-Costa/MarcosP-Costa/blob/main/snake.yml)
+![Snake animation](https://github.com/MarcosP-Costa/MarcosP-Costa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
