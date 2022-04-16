@@ -5,7 +5,7 @@ Algumas informações sobre mim:
 - 🔭 Hoje trabalho como analista de ecommerce e manutenção de computadores na empresa CZ10.
 - 🌱 Estou fazendo o curso Certified Tech Developer da Digital House
 - 🎯 Minha meta é ser um desenvolvedor Back-End!
-- 🕹️ Tenho um repositorio onde ensino como transformar um computador em um multigames de jogos antigos.
+- 🕹️ Tenho um repositorio onde ensino como transformar um computador em um emulador de jogos antigos.
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 
