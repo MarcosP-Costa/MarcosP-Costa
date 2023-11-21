@@ -7,8 +7,8 @@ Algumas informações sobre mim:
 - 🎯 Minha meta é ser um desenvolvedor Back-End!
 - 🕹️ Tenho um repositorio onde ensino como transformar um computador em um emulador de jogos antigos.
 
-![Snake animation](https://github.com/MarcosP-Costa/MarcosP-Costa/blob/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://github.com/MarcosP-Costa/MarcosP-Costa/blob/output/github-contribution-grid-snake.svg)
 
 
 <div align="center">
