@@ -8,6 +8,7 @@ Algumas informações sobre mim:
 - 🕹️ Tenho um repositorio onde ensino como transformar um computador em um emulador de jogos antigos.
 
 
+
 ![Snake animation](https://github.com/MarcosP-Costa/MarcosP-Costa/blob/output/github-contribution-grid-snake.svg)
 
 
