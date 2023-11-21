@@ -16,14 +16,7 @@ Algumas informações sobre mim:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosP-Costa&show_icons=true&theme=dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosP-Costa&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="MarcosP-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="MarcosP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MarcosP-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MarcosP-Kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="MarcosP-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
-</div>
+
 
   ##
   
