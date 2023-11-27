@@ -2,8 +2,8 @@
 
 Algumas informações sobre mim:
 
-- 🔭 Hoje trabalho como analista de ecommerce e manutenção de computadores na empresa CZ10.
-- 🌱 Estou fazendo o curso Certified Tech Developer da Digital House
+- 🔭 Hoje trabalho como Analista de Ecommerce(Freelancer).
+- 🌱 Estou estudando Desenvolvimento Back-End na Anhanguera
 - 🎯 Minha meta é ser um desenvolvedor Back-End!
 - 🕹️ Tenho um repositorio onde ensino como transformar um computador em um emulador de jogos antigos.
 
