@@ -3,8 +3,8 @@
 Algumas informações sobre mim:
 
 - 🔭 Hoje trabalho como Analista de Ecommerce(Freelancer).
-- 🌱 Estou estudando Desenvolvimento Back-End na Anhanguera
-- 🎯 Minha meta é ser um desenvolvedor Back-End!
+- 🌱 Estou estudando Desenvolvimento Back-End na Faculdade Anhanguera
+- 🎯 Minha meta é ser um desenvolvedor Python Back-End(Com Django)!
 - 🕹️ Tenho um repositorio onde ensino como transformar um computador em um emulador de jogos antigos.
 
 
