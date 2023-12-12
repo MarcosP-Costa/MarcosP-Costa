@@ -15,7 +15,7 @@ Algumas informações sobre mim:
 
 <div align="center">
   <a href="https://github.com/MarcosP-Costa">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=MarcosP-Costa&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MarcosP-Costa&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosP-Costa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
