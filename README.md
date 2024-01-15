@@ -24,7 +24,7 @@ Algumas informações sobre mim:
   
   <div align="center"> 
     <a href="https://www.linkedin.com/in/marcospcostadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="marcospcosta.dev" target="_blank"><img src="https://img.shields.io/badge/Marcos%20Costa-Site?style=plastic&logoColor=%2354CA95&color=%2354CA95" target="_blank"></a> 
+    <a href="https://marcospcosta.dev" target="_blank"><img src="https://img.shields.io/badge/Marcos%20Costa-Site?style=plastic&logoColor=%2354CA95&color=%2354CA95" target="_blank"></a> 
 
  
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
