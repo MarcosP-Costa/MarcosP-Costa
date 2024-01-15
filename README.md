@@ -24,7 +24,8 @@ Algumas informações sobre mim:
   
   <div align="center"> 
     <a href="https://www.linkedin.com/in/marcospcostadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:marcos_nokbuk@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> </a>
+  ![Static Badge](https://img.shields.io/badge/Marcos%20Costa-Site?style=plastic&logoColor=%2354CA95&color=%2354CA95&link=https%3A%2F%2Fmarcospcosta.dev)
+
  
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
  
