@@ -2,9 +2,9 @@
 
 Algumas informações sobre mim:
 
-- 🔭 Hoje trabalho como Analista de Ecommerce(Freelancer).
-- 🌱 Estou estudando Desenvolvimento Back-End na Faculdade Anhanguera
-- 🎯 Minha meta é ser um desenvolvedor Python Back-End(Com Django)!
+- 🔭 Hoje trabalho como Analista de E-Commerce (Freelancer).
+- 🌱 Estou estudando Desenvolvimento Back-End na Faculdade Anhanguera.
+- 🎯 Minha meta é ser um desenvolvedor Python Back-End (Com Django)!
 - 🕹️ Tenho um repositorio onde ensino como transformar um computador em um emulador de jogos antigos.
 - 🧠 No meu <a href="https://marcospcosta.dev" target="_blank">site</a> falo mais sobre mim
 
